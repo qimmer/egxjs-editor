@@ -1,0 +1,2 @@
+# egxjs-editor
+EGX Editor
